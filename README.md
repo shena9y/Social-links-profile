@@ -1,33 +1,49 @@
-# Frontend Mentor - Social links profile
+# 🔗 Social Links Profile
 
-## Welcome! 👋
+My solution to the [Social Links Profile challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) on [Frontend Mentor](https://www.frontendmentor.io) — a sleek, dark-themed profile card with an avatar, bio, and a list of social link buttons.
 
-Thanks for checking out this front-end coding challenge.
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-3e54a3?style=for-the-badge)
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).
+## ✨ Features
 
-### The challenge
+- 👤 Profile card with avatar, name, and location
+- 📝 Short bio section — *"Front-end developer and avid reader."*
+- 🔘 Five social link buttons: **GitHub, Frontend Mentor, LinkedIn, Twitter, Instagram**
+- 🖱️ Hover / active states per the challenge design
+- 📱 Responsive, centered dark card layout
 
-Users should be able to:
+## 🛠️ Tech Stack
 
-- See hover and focus states for all interactive elements on the page
+- HTML5
+- CSS3 (Flexbox, custom colors, hover states)
 
-### Screenshot
+## 📂 Project Structure
 
-![Screenshot](/images/screenshot.png)
+```
+Social-links-profile/
+├── index.html        # Profile card markup
+├── style.css         # Dark theme card styles
+├── preview.jpg       # Design preview
+├── design/           # Design references
+└── images/
+    ├── avatar-jessica.jpeg
+    └── screenshot.png
+```
 
-### Links
+## 🚀 Getting Started
 
-- Solution URL: [My solution ](https://www.frontendmentor.io/solutions/social-links-profile-850S-bkDCF)
-- Live Site URL: [live site](https://shena9y.github.io/Social-links-profile/)
+1. Clone the repository
+   ```bash
+   git clone https://github.com/shena9y/Social-links-profile.git
+   ```
+2. Open `index.html` in your browser — no build step required.
 
-### Built with
+## 📸 Screenshot
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+![Solution Screenshot](images/screenshot.png)
 
-## Author
+## 📝 License
 
-- Website - [Mohammed Hamdy](https://github.com/shena9y)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/shena9y)
+This project is open source and available under the [MIT License](LICENSE).
