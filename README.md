@@ -1,10 +1,12 @@
-# 🔗 Social Links Profile
+﻿# 🔗 Social Links Profile
 
 My solution to the [Social Links Profile challenge](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ) on [Frontend Mentor](https://www.frontendmentor.io) — a sleek, dark-themed profile card with an avatar, bio, and a list of social link buttons.
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Challenge-3e54a3?style=for-the-badge)
+
+🔗 **Live Demo:** [https://shena9y.github.io/Social-links-profile/](https://shena9y.github.io/Social-links-profile/)
 
 ## ✨ Features
 
@@ -34,6 +36,8 @@ Social-links-profile/
 
 ## 🚀 Getting Started
 
+**Try it live:** [https://shena9y.github.io/Social-links-profile/](https://shena9y.github.io/Social-links-profile/) — no installation needed!
+
 1. Clone the repository
    ```bash
    git clone https://github.com/shena9y/Social-links-profile.git
@@ -44,6 +48,9 @@ Social-links-profile/
 
 ![Solution Screenshot](images/screenshot.png)
 
+🔗 **Live Demo:** [https://shena9y.github.io/Social-links-profile/](https://shena9y.github.io/Social-links-profile/)
+
 ## 📝 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
